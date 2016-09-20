@@ -1,0 +1,14 @@
+#include <librarie.h>
+type fonction (paramètres)
+{
+	type variable1; /*comment in english*/
+	type variable 2;
+	/*Toujours sauter une ligne après la déclaration d'une variable sinon 0 !*/
+	variable 1 = 5;
+	variable 2 = 0;
+	if (variable1 > variable2)
+	{
+		contenu;
+	}
+	return (0);
+}
